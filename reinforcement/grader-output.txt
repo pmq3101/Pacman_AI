@@ -1,0 +1,46 @@
+python autograder.py
+Starting on 12-9 at 16:59:02
+
+Question q1
+===========
+
+*** PASS: test_cases\q1\1-tinygrid.test
+*** PASS: test_cases\q1\2-tinygrid-noisy.test
+*** PASS: test_cases\q1\3-bridge.test
+*** PASS: test_cases\q1\4-discountgrid.test
+
+### Question q1: 5/5 ###
+
+
+Question q2
+===========
+
+*** PASS: test_cases\q2\1-question-2.1.test
+*** PASS: test_cases\q2\2-question-2.2.test
+*** PASS: test_cases\q2\3-question-2.3.test
+*** PASS: test_cases\q2\4-question-2.4.test
+*** PASS: test_cases\q2\5-question-2.5.test
+
+### Question q2: 5/5 ###
+
+
+Question q3
+===========
+
+*** PASS: test_cases\q3\1-tinygrid.test
+*** PASS: test_cases\q3\2-tinygrid-noisy.test
+*** PASS: test_cases\q3\3-bridge.test
+*** PASS: test_cases\q3\4-discountgrid.test
+
+### Question q3: 5/5 ###
+
+
+Question q4
+===========
+
+*** PASS: test_cases\q4\1-tinygrid.test
+*** PASS: test_cases\q4\2-tinygrid-noisy.test
+*** PASS: test_cases\q4\3-bridge.test
+*** PASS: test_cases\q4\4-discountgrid.test
+
+### Question q4: 2/2 ###
