@@ -1,0 +1,54 @@
+Question q1
+===========
+
+*** PASS: test_cases\q1\1-tinygrid.test
+*** PASS: test_cases\q1\2-tinygrid-noisy.test
+*** PASS: test_cases\q1\3-bridge.test
+*** PASS: test_cases\q1\4-discountgrid.test
+
+### Question q1: 4/4 ###
+
+
+Finished at 21:21:26
+
+Provisional grades
+==================
+Question q1: 4/4
+------------------
+Total: 4/4
+
+Question q2
+===========
+
+*** PASS: test_cases\q2\1-bridge-grid.test
+
+### Question q2: 1/1 ###
+
+
+Finished at 21:21:54
+
+Provisional grades
+==================
+Question q2: 1/1
+------------------
+Total: 1/1
+
+Question q3
+===========
+
+*** PASS: test_cases\q3\1-question-3.1.test
+*** PASS: test_cases\q3\2-question-3.2.test
+*** PASS: test_cases\q3\3-question-3.3.test
+*** PASS: test_cases\q3\4-question-3.4.test
+*** PASS: test_cases\q3\5-question-3.5.test
+
+### Question q3: 5/5 ###
+
+
+Finished at 21:22:09
+
+Provisional grades
+==================
+Question q3: 5/5
+------------------
+Total: 5/5
